@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				74000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"BlackBF"
+					]
+				]
+			],
+			[
+				74115.3846153846,
+				[
+					[
+						"Song Speed Change",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				88746.1538461538,
+				[
+					[
+						"Change Character",
+						"2",
+						"TrueWechidnaBG"
+					]
+				]
+			],
+			[
+				88757.6923076923,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				88769.2307692307,
+				[
+					[
+						"Change Character",
+						"1",
+						"Wechidna"
+					]
+				]
+			]
+		]
+	}
+}
