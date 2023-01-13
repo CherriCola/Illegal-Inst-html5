@@ -1,0 +1,36 @@
+{
+	"song": {
+		"events": [
+			[
+				124954.128440367,
+				[
+					[
+						"Play Animation",
+						"transformation",
+						"0"
+					]
+				]
+			],
+			[
+				141693.372202692,
+				[
+					[
+						"Add Camera Zoom",
+						"-0.25",
+						"-0.03"
+					]
+				]
+			],
+			[
+				141833.55911858,
+				[
+					[
+						"Change Character",
+						"dad",
+						"beast_chaotix"
+					]
+				]
+			]
+		]
+	}
+}

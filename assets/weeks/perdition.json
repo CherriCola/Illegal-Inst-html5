@@ -1,0 +1,32 @@
+{
+	"storyName": "Hit Single (Wet Fart!)",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "duke",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"perdition",
+			"apollyon",
+			[
+				50,
+				51,
+				101
+			]
+		]
+	],
+	"weekName": "apollyon-mix",
+	"hiddenUntilUnlocked": false
+}

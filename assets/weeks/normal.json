@@ -1,0 +1,26 @@
+{
+	"storyName": "Normal CD",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"weekBefore": "chaotix",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"normal",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Found You",
+			"normal",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Normal CD"
+}

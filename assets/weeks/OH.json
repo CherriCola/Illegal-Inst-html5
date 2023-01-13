@@ -1,0 +1,31 @@
+{
+	"storyName": "Our Horizon",
+	"hideFreeplay": true,
+	"weekBackground": "illeginst",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Our Horizon",
+			"chaotix-beast",
+			[
+				255,
+				173,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"chaotix",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Our Horizon"
+}

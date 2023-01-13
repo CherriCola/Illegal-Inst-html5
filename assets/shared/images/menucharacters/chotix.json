@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Chotix menu",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		-70,
+		-150
+	],
+	"scale": 4.25,
+	"flipX": false,
+	"image": "chotix_menu"
+}

@@ -1,0 +1,32 @@
+{
+	"storyName": "Acid Creature Deluxe",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"freeplayColor": [
+		255,
+		113,
+		115
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"chotix",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Long Sky",
+			"chotix",
+			[
+				255,
+				173,
+				253
+			]
+		]
+	],
+	"weekName": "Chotix",
+	"hiddenUntilUnlocked": false
+}

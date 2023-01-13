@@ -1,0 +1,4 @@
+
+
+Value 1: Character to have their 'ghost', dad or bf
+Value 2: Anim name that the ghost should play

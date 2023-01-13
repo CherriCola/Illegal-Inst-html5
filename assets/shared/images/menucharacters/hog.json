@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Hog menu",
+	"confirm_anim": "Hog Transform",
+	"position": [
+		-70,
+		-150
+	],
+	"scale": 4.25,
+	"flipX": false,
+	"image": "hog_menu"
+}

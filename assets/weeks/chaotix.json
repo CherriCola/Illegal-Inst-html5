@@ -1,0 +1,26 @@
+{
+	"storyName": "Tails?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"chaotix",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"My Horizon",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
+		]
+	],
+	"weekName": "Chaotix"
+}

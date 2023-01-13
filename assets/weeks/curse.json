@@ -1,0 +1,41 @@
+{
+	"storyName": "The Curse of X",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"malediction",
+			"curse-happy",
+			[
+				0,
+				0,
+				55
+			]
+		],
+		[
+			"malediction v2",
+			"curse-happy",
+			[
+				0,
+				0,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"curse",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "curse"
+}

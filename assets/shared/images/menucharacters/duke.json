@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "Duke menu",
+	"position": [
+		-70,
+		-150
+	],
+	"scale": 4.25,
+	"image": "duke_menu",
+	"flipX": false
+}
