@@ -1,0 +1,86 @@
+{
+	"storyName": "not playable!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "duke",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Possibly Coming Soon",
+			"blank",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Good For Them",
+			"normal",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Extricate Hex",
+			"curse-happy",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Malediction d side",
+			"curse-happy",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Last Straw",
+			"chaotix-beast-pixel",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Breakout Encore",
+			"duke",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Breakout v2",
+			"duke",
+			[
+				50,
+				51,
+				101
+			]
+		]
+	],
+	"weekName": "coming soon crashes game",
+	"hiddenUntilUnlocked": false
+}
