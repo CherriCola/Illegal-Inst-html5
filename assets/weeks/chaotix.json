@@ -20,6 +20,32 @@
 				120,
 				140
 			]
+		],
+		[
+			"My Horizon Obsolete",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
+		],
+		[
+			"My Horizon Wechidna",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
+		],		[
+			"My Horizon Faker Mix",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
 		]
 	],
 	"weekName": "Chaotix"

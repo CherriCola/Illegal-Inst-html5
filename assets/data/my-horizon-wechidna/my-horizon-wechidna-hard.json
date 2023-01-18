@@ -1,8 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
-		"events": [],
-		"gfVersion": "WechidnaBG",
+		"player1": "chaotix_bf",
 		"notes": [
 			{
 				"endTime": 1243.52331606218,
@@ -41381,17 +41379,16 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "Faked",
-		"chartVersion": "KE1",
-		"isRing": true,
-		"player3": "WechidnaBG",
+		"player2": "chaotix_faker",
+		"player3": "air",
+		"initialSpeed": 1.26,
+		"sliderVelocities": null,
 		"song": "my-horizon-wechidna",
-		"stage": "wechidna",
 		"needsVoices": true,
-		"arrowSkin": "",
 		"validScore": true,
-		"noteStyle": "normal",
-		"bpm": 150,
-		"speed": 2.7
+		"stage": "ohorizon",
+		"arrowSkin": "",
+		"speed": 2.8,
+		"bpm": 156
 	}
 }
