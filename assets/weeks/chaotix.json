@@ -22,6 +22,15 @@
 			]
 		],
 		[
+			"My Horizon Remastered",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
+		],
+		[
 			"My Horizon Encore",
 			"chaotix-pixel",
 			[
@@ -31,7 +40,16 @@
 			]
 		],
 		[
-			"My Horizon Obsolete",
+			"My Horizon Obsolete v1",
+			"chaotix-pixel",
+			[
+				255,
+				120,
+				140
+			]
+		],
+		[
+			"My Horizon Obsolete v2",
 			"chaotix-pixel",
 			[
 				255,
