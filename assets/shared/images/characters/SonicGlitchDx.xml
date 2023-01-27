@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SonicGlitchDx.png" width="2140" height="2424">
+  <SubTexture name="SonicGlitchDown0001.png" x="0" y="0"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchDown0002.png" x="428" y="0"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchDown0003.png" x="0" y="606"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchIdle0001.png" x="428" y="606"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchIdle0002.png" x="856" y="0"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchIdle0003.png" x="856" y="606"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchIdle0004.png" x="0" y="1212"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchLeft0001.png" x="428" y="1212"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchLeft0002.png" x="856" y="1212"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchLeft0003.png" x="1284" y="0"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchRight0001.png" x="1284" y="606"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchRight0002.png" x="1284" y="1212"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchRight0003.png" x="1712" y="0"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchUp0001.png" x="1712" y="606"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchUp0002.png" x="1712" y="1212"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchUp0003.png" x="0" y="1818"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+  <SubTexture name="SonicGlitchUp0004.png" x="428" y="1818"  width="428" height="606" frameX="-0" frameY="-0" frameWidth="428" frameHeight="606"/>
+</TextureAtlas>

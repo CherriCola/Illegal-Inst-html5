@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "PicoFurryIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "PicoFurryLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-23
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "PicoFurryDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				6
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "PicoFurryUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "PicoFurryRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/picodx",
+	"position": [
+		-240,
+		260
+	],
+	"healthicon": "xd",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		430,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

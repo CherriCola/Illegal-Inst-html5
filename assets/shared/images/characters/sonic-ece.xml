@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="SonicDx.png" width="1890" height="2032">
+  <SubTexture name="SonicDown0001.png" x="0" y="0"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicDown0002.png" x="378" y="0"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicDown0003.png" x="0" y="508"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicIdle0001.png" x="378" y="508"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicIdle0002.png" x="756" y="0"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicIdle0003.png" x="756" y="508"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicIdle0004.png" x="0" y="1016"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicIdle0005.png" x="378" y="1016"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicLeft0001.png" x="756" y="1016"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicLeft0002.png" x="1134" y="0"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicLeft0003.png" x="1134" y="508"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicLeft0004.png" x="1134" y="1016"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicRight0001.png" x="1512" y="0"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicRight0002.png" x="1512" y="508"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicRight0003.png" x="1512" y="1016"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicRight0004.png" x="0" y="1524"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicUp0001.png" x="378" y="1524"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicUp0002.png" x="756" y="1524"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicUp0003.png" x="1134" y="1524"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+  <SubTexture name="SonicUp0004.png" x="1512" y="1524"  width="378" height="508" frameX="-0" frameY="-0" frameWidth="378" frameHeight="508"/>
+</TextureAtlas>

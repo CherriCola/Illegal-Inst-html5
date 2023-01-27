@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="PicoDx.png" width="2040" height="2040">
+  <SubTexture name="PicoFurryDown0001.png" x="0" y="0"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryDown0002.png" x="510" y="0"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryDown0003.png" x="0" y="510"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryIdle0001.png" x="510" y="510"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryIdle0002.png" x="1020" y="0"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryIdle0003.png" x="1020" y="510"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryIdle0004.png" x="0" y="1020"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryLeft0001.png" x="510" y="1020"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryLeft0002.png" x="1020" y="1020"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryLeft0003.png" x="1530" y="0"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryRight0001.png" x="1530" y="510"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryRight0002.png" x="1530" y="1020"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryRight0003.png" x="0" y="1530"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryUp0001.png" x="510" y="1530"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryUp0002.png" x="1020" y="1530"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+  <SubTexture name="PicoFurryUp0003.png" x="1530" y="1530"  width="510" height="510" frameX="-0" frameY="-0" frameWidth="510" frameHeight="510"/>
+</TextureAtlas>

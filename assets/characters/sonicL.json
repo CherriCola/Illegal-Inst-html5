@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				22
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SonicGlitchLeft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SonicGlitchDown",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				6
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SonicGlitchUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-44,
+				3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SonicGlitchRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "SonicGlitchIdle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/SonicGlitchDx",
+	"position": [
+		-110,
+		80
+	],
+	"healthicon": "xd",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-50,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

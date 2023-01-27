@@ -1,0 +1,41 @@
+{
+	"storyName": "bonuses, will be removed eventually",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "illeginst",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "comingsoon",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Unrelated Bonus Songs",
+			"blank",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"DX-Gamebreaker",
+			"pico",
+			[
+				50,
+				51,
+				101
+			]
+		]
+	],
+	"weekName": "bonuses, will be removed eventually",
+	"hiddenUntilUnlocked": false
+}
