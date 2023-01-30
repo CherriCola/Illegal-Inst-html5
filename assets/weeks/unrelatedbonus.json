@@ -1,6 +1,6 @@
 {
 	"storyName": "bonuses, will be removed eventually",
-	"difficulties": "Hard",
+	"difficulties": "Normal",
 	"hideFreeplay": false,
 	"weekBackground": "illeginst",
 	"freeplayColor": [
@@ -29,6 +29,15 @@
 		[
 			"DX-Gamebreaker",
 			"pico",
+			[
+				50,
+				51,
+				101
+			]
+		],
+		[
+			"Spirit Dance",
+			"needlemouse",
 			[
 				50,
 				51,

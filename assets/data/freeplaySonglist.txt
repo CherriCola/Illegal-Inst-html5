@@ -1,0 +1,12 @@
+Loss:cherri:7
+Regret:cherrisad:8
+Jealously:cherrisad:8
+Acceptance:cherrihappy:9
+Agony:cherrifun:10
+Bonus Songs:empty:1
+Moog City:cherricraft:1:
+Sweden:cherricraft:1:
+Otherside:cherricraft:1:
+Overseen:cherricraft:1:
+Blazereborn:cherricraft:1:
+Blazeborn:cherricraft:1:
